@@ -1,5 +1,3 @@
-Simplifying the install process on mac.
-
 To create a dmg simply put the latest version of XQuartz + FontForge inside the FontForge Installer so you have
 
 ```
