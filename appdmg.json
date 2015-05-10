@@ -1,0 +1,10 @@
+{
+  "title": "FontForge Installer",
+  "icon": "VolumeIcon.icns",
+  "background": "FontForgeBg.png",
+  "icon-size": 128,
+  "hide-icons-right": true,
+  "contents": [
+    { "x": 320, "y": 300, "type": "file", "path": "FontForge Installer.app" }
+  ]
+}
