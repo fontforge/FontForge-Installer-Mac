@@ -1,1 +1,1 @@
-appdmg `dirname "$0"`/appdmg.json ~/Desktop/FontForgeInstaller.dmg
+appdmg `dirname "$0"`/appdmg.json ~/Desktop/FontForge.dmg
