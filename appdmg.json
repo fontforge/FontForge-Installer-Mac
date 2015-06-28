@@ -4,7 +4,7 @@
   "background": "InstallerBG.png",
   "icon-size": 128,
   "contents": [
-    { "x": 320, "y": 300, "type": "file", "path": "FontForge Installer.app" },
-    { "x": 64, "y": 300, "type": "file", "path": " " }
+    { "x": 320, "y": 280, "type": "file", "path": "FontForge Installer.app" },
+    { "x": 540, "y": 337, "type": "file", "path": " " }
   ]
 }

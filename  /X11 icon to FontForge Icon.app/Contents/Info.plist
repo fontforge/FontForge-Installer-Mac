@@ -11,11 +11,11 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.Change-X11-icon-to-FontForge-Icon</string>
+	<string>com.apple.ScriptEditor.id.X11-icon-to-FontForge-Icon</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Change X11 icon to FontForge Icon</string>
+	<string>X11 icon to FontForge Icon</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -44,7 +44,7 @@
 		<key>positionOfDivider</key>
 		<real>421</real>
 		<key>savedFrame</key>
-		<string>569 205 700 672 0 0 1440 877 </string>
+		<string>50 205 700 672 0 0 1440 877 </string>
 		<key>selectedTab</key>
 		<string>description</string>
 	</dict>
